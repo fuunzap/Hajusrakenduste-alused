@@ -1,0 +1,19 @@
+<!ELEMENT root (channel)>
+<!ELEMENT channel (link+,generator,docs,title,language,pubDate,description,image,item+)>
+<!ELEMENT link (#PCDATA)>
+<!ATTLIST link href CDATA #IMPLIED>
+<!ATTLIST link rel NMTOKEN #IMPLIED>
+<!ATTLIST link type CDATA #IMPLIED>
+<!ELEMENT generator (#PCDATA)>
+<!ELEMENT docs (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT pubDate (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT image (url,title,link,width,height,description)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT width (#PCDATA)>
+<!ELEMENT height (#PCDATA)>
+<!ELEMENT item (#PCDATA|title|description|link|guid|pubDate|author|category|enclosure)*>
+<!ELEMENT guid (#PCDATA)>
+<!ATTLIST guid isPermaLink NMTOKEN #FIXED "false"><!ELEMENT author (#PCDATA)><!ELEMENT category (#PCDATA)><!ATTLIST category domain CDATA #REQUIRED><!ELEMENT enclosure EMPTY><!ATTLIST enclosure url CDATA #REQUIRED><!ATTLIST enclosure length CDATA #FIXED ""><!ATTLIST enclosure type CDATA #FIXED "image/jpeg">

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <counrty>
+        <name>Estonia</name>
+        <language>
+            <lang isOfficial="True">Estonia</lang>
+            <lang>Russian</lang>
+            <lang>Finnish</lang>
+        </language>
+        <currency name="Euro" sign="€"></currency>
+    </counrty>
+<counrty>
+    <name>Russia</name>
+    <language>
+        <lang isOfficial="True">Russian</lang>
+        <lang>Russian</lang>
+    </language>
+    <currency name="Rub" sign="₽"></currency>
+</counrty>
+<counrty>
+    <name>Ukraine</name>
+    <language>
+        <lang isOfficial="True">Ukrainan</lang>
+        <lang>Russian</lang>
+    </language>
+    <currency name="Grivna" sign="₴"></currency>
+</counrty>
+<counrty>
+    <name>Kazakhstan</name>
+    <language>
+        <lang isOfficial="True">Kazakh</lang>
+        <lang>Russian</lang>
+    </language>
+    <currency name="Tenge" sign="⍑"></currency>
+</counrty>
+<counrty>
+    <name>Belarus</name>
+    <language>
+        <lang isOfficial="True">Belaruskiy</lang>
+        <lang>Russian</lang>
+    </language>
+    <currency name="Rub" sign="₽"></currency>
+</counrty>
+<counrty>
+    <name>Poland</name>
+    <language>
+        <lang isOfficial="True">Poland</lang>
+        <lang>Ukraine</lang>
+        <lang>Russian</lang>
+    </language>
+    <currency name="Zloty" sign="zł"></currency>
+</counrty>
+<counrty>
+    <name>Germany</name>
+    <language>
+        <lang isOfficial="True">Germany</lang>
+        <lang>Russian</lang>
+        <lang>Ukraine</lang>
+    </language>
+    <currency name="Euro" sign="€"></currency>
+</counrty>
+<counrty>
+    <name>Türkiye</name>
+    <language>
+        <lang isOfficial="True">Turkish</lang>
+        <lang>Russian</lang>
+        <lang>Ukraine</lang>
+        <lang>English</lang>
+    </language>
+    <currency name="Turkish lira" sign="₺"></currency>
+</counrty>
+<counrty>
+    <name>Finland</name>
+    <language>
+        <lang isOfficial="True">Finnish</lang>
+        <lang>Russian</lang>
+        <lang>Estonia</lang>
+        <lang>English</lang>
+
+    </language>
+    <currency name="Dollar" sign="$"></currency>
+</counrty>
+<counrty>
+    <name>Estonia</name>
+    <language>
+        <lang isOfficial="True">Egypt</lang>
+        <lang>Russian</lang>
+        <lang>English</lang>
+    </language>
+    <currency name="Egyptian pound" sign=".ج.م"></currency>
+</counrty>
+</root>

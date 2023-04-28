@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "books.dtd">
+<root>
+<Books>
+    <Book>
+    <BookID>1</BookID>
+    <ISBN>978-161729126</ISBN>
+    <Title>Pro ASP.NET MVC 4</Title>
+    <Description>The ASP.NET MVC 4 Framework is the latest evolution of Microsoft's</Description>
+    <Price>38.8500</Price>
+    <Pages>500</Pages>
+    <Year>2013-01-16</Year>
+    <Language>ENG</Language>
+    <Category>Web</Category>|
+    <Authors>
+    <Author AuthorID="2" Firstname="Adam" Lastname="Freeman" />
+    </Authors>
+    </Book>
+        <Book>
+        <BookID>1</BookID>
+        <ISBN>978-161729126</ISBN>
+        <Title>Pro ASP.NET MVC 4</Title>
+        <Description>The ASP.NET MVC 4 Framework is the latest evolution of Microsoft's</Description>
+        <Price>38.8500</Price>
+        <Pages>500</Pages>
+        <Year>2013-01-16</Year>
+        <Language>ENG</Language>
+        <Category>Web</Category>|
+        <Authors>
+        <Author AuthorID="2" Firstname="Adam" Lastname="Freeman" />
+        </Authors>
+        </Book>
+    </Books>
+    </root>

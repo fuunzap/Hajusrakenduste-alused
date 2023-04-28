@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="news.dtd"?>
+<!DOCTYPE root SYSTEM "news.dtd">
+<root>
+<channel>
+    <rss version="2.0">
+    <generator>RSS Generator 2.1.1</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <title>Postimees</title>
+    <language>et</language>
+    <pubDate>Mon, 10 Apr 2023 07:44:44 +0000</pubDate>
+    <link>https://www.postimees.ee</link>
+    <description>Postimees: Värsked uudised Eestist ja välismaalt. Loe lähemalt</description>
+    <image>
+    <url>https://f.pmo.ee/logos/81/21c276355c839526bfb60cb5cee3be95.svg</url>
+    <title>Postimees</title>
+    <link>https://www.postimees.ee</link>
+    <width>206</width>
+    <height>40</height>
+    <description>Postimees: Värsked uudised Eestist ja välismaalt. Loe lähemalt</description>
+    </image>
+    <item>
+    <title>Anne kanali ääres algavad tasuta välitrennid</title>
+    <description>Tartu linn alustab 24. aprillil taas tasuta välitreeningutega täiskasvanutele. Treeningud toimuvad esmaspäeviti kell 18.00 – 19.30 Anne kanali äärsel välijõusaali platsil.</description>
+    <link>https://pmo.ee/7750334</link>
+    <guid isPermaLink="false">pm#7750334</guid>
+    <pubDate>Mon, 10 Apr 2023 10:37:01 +0300</pubDate>
+    <author>Egeli Raudmäe</author>
+    <category domain="https://tartu.postimees.ee">Tartu Postimees</category>
+    <enclosure url="https://f11.pmo.ee/X8kxUvskIngfRPkWsvXm_6bFeMY=/480x270/smart/nginx/o/2023/04/10/15247498t1hee2e.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Laupäeval põles ehitussoojak Vinni vallas</title>
+    <description>Laupäeva õhtupoolikul kell 17.36 teatati päästeametile ehitussoojaku põlengust Vinni vallas Pajusti alevikus.</description>
+    <link>https://pmo.ee/7750357</link>
+    <guid isPermaLink="false">pm#7750357</guid>
+    <pubDate>Mon, 10 Apr 2023 10:25:00 +0300</pubDate>
+    <author>Andres Tohver</author>
+    <category domain="https://virumaateataja.postimees.ee">Virumaa Teataja</category>
+    <category domain="https://virumaateataja.postimees.ee/section/385">Uudised</category>
+    <enclosure url="https://f12.pmo.ee/2Hq7aJrKw67TTlME0XG1aX505kI=/480x270/smart/nginx/o/2023/04/10/15247622t1hdde0.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Loomaarst vastab: miks peaks koer porise ilmaga jopet kandma?</title>
+    <description>Lemmiku lugejatele on taas avatud nõuandenurgake, kus loomaomanikud saavad esitada loomaarstile küsimusi oma neljajalgsete sõprade kohta.</description>
+    <link>https://pmo.ee/7750338</link>
+    <guid isPermaLink="false">pm#7750338</guid>
+    <pubDate>Mon, 10 Apr 2023 10:24:29 +0300</pubDate>
+    <author>lemmik.postimees.ee</author>
+    <category domain="https://lemmik.postimees.ee">Lemmik</category>
+    <category domain="https://lemmik.postimees.ee/section/4105">Loomaarst vastab</category>
+    <enclosure url="https://f10.pmo.ee/_YD6Rr8ML-uTD80yUpqNi2kQfX0=/480x270/filters:focal(2169x1379:3406x1982)/nginx/o/2023/04/10/15247617t1ha01c.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Eesti eksport tegi väikse tõusu, import kukkus aga kokku</title>
+    <description>Statistikaameti andmetel suurenes veebruaris kaupade eksport 2 protsenti, import vähenes võrreldes möödunud aasta sama perioodiga 8 protsenti.</description>
+    <link>https://pmo.ee/7750352</link>
+    <guid isPermaLink="false">pm#7750352</guid>
+    <pubDate>Mon, 10 Apr 2023 10:23:22 +0300</pubDate>
+    <author>Toimetas Carl-Robert Puhm</author>
+    <category domain="https://majandus.postimees.ee">Majandus</category>
+    <enclosure url="https://f8.pmo.ee/1Na9vQ1eUluQ47---Py9fPqgcYY=/480x270/smart/nginx/o/2023/01/13/15077749t1h1ff5.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>RAINER SAKS ⟩ USA saladokumendid ei sisalda midagi sensitiivset. On vaid üks murekoht</title>
+    <description>Dokumentide sisu peaks veenma Ukraina armee mõnevõrra kehvemast olukorrast, kui laiemalt teada on, tõdeb julgeolekuekspert Rainer Saks.</description>
+    <link>https://pmo.ee/7750350</link>
+    <guid isPermaLink="false">pm#7750350</guid>
+    <pubDate>Mon, 10 Apr 2023 10:23:00 +0300</pubDate>
+    <author>Rainer Saks</author>
+    <category domain="https://arvamus.postimees.ee">Arvamus</category>
+    <enclosure url="https://f12.pmo.ee/eeSjhZu_o2Fl-AoQQsE6E3bLPPg=/480x270/filters:focal(370x168:1724x2096)/nginx/o/2023/04/10/15247618t1h49e1.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Sõjapõgenikel tuleb ka laevast välja kolida: Tallink prahtis põgenikelaeva kanadalastele</title>
+    <description>Tallink prahib 1. juulist praegu Ukraina sõjapõgenikke majutava laeva Isabelle kanadalastele ja põgenikel tuleb laevast välja kolida.</description>
+    <link>https://pmo.ee/7750348</link>
+    <guid isPermaLink="false">pm#7750348</guid>
+    <pubDate>Mon, 10 Apr 2023 10:22:00 +0300</pubDate>
+    <author>Merike Lees</author>
+    <category domain="https://majandus.postimees.ee">Majandus</category>
+    <category domain="https://majandus.postimees.ee/section/519">Uudised</category>
+    <category domain="https://majandus.postimees.ee/section/5366">Eesti majandus</category>
+    <enclosure url="https://f9.pmo.ee/ieML2OlgBS88kuU2yMP0m4_xAVc=/480x270/filters:focal(864x550:879x565)/nginx/o/2022/11/07/14947419t1h5c75.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Eesti 200 valis fraktsiooni esimehe ja aseesimehed</title>
+    <description>Erakond Eesti 200 valis täna hommikul oma riigikogu fraktsiooni esimeheks Marek Reinaasi ning aseesimeesteks Kadri Tali ja Toomas Uibo.</description>
+    <link>https://pmo.ee/7750331</link>
+    <guid isPermaLink="false">pm#7750331</guid>
+    <pubDate>Mon, 10 Apr 2023 10:21:20 +0300</pubDate>
+    <author>Loora-Elisabet Lomp</author>
+    <category domain="https://www.postimees.ee">Postimees</category>
+    <enclosure url="https://f10.pmo.ee/5-JS6g6xTc-3CckYTmu-tqt5oAw=/480x270/smart/nginx/o/2023/04/10/15247613t1h76a0.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Täna esilinastub Apteeker Melchiori triloogia finaal!</title>
+    <description>Esmaspäeval, 10. aprillil jõuab kinodesse Apteeker Melchiori triloogia kolmas osa ehk kodumaine mängufilm «Apteeker Melchior. Timuka tütar», mis on režissöör Elmo Nüganeni sõnul eelmistest osadest pingestatum ja intensiivsem.</description>
+    <link>https://pmo.ee/7750347</link>
+    <guid isPermaLink="false">pm#7750347</guid>
+    <pubDate>Mon, 10 Apr 2023 10:19:35 +0300</pubDate>
+    <author>Kultuuritoimetus</author>
+    <category domain="https://kultuur.postimees.ee">Kultuur</category>
+    <category domain="https://kultuur.postimees.ee/section/2193">Film</category>
+    <enclosure url="https://f12.pmo.ee/TW7BOicAk9nMzZy5QLMEEbmbCFU=/480x270/smart/nginx/o/2023/04/08/15244829t1hddef.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Räpina muuseumi etteotsa asus soomlane</title>
+    <description>Räpina koduloo- ja aiandusmuuseumi juhatajana alustas aprilli alguses tööd Annika Mirjami Nurmi.</description>
+    <link>https://pmo.ee/7750343</link>
+    <guid isPermaLink="false">pm#7750343</guid>
+    <pubDate>Mon, 10 Apr 2023 10:19:32 +0300</pubDate>
+    <author>Lõuna-Eesti Postimees</author>
+    <category domain="https://lounapostimees.postimees.ee">Lõuna-Eesti Postimees</category>
+    <category domain="https://lounapostimees.postimees.ee/section/424">Uudised</category>
+    <enclosure url="https://f8.pmo.ee/IqBVSAsyBBm54r_yTI2PZtvgRBc=/480x270/smart/nginx/o/2023/04/10/15247612t1hf925.png" length="" type="image/png"/>
+    </item>
+    <item>
+    <title>Sotsiaaldemokraatide fraktsiooni hakkab juhtima Jevgeni Ossinovski</title>
+    <description>Riigikogu Sotsiaaldemokraatliku Erakonna fraktsioon valis täna fraktsiooni esimeheks Jevgeni Ossinovski ja aseesimeheks Helmen Küti.</description>
+    <link>https://pmo.ee/7750344</link>
+    <guid isPermaLink="false">pm#7750344</guid>
+    <pubDate>Mon, 10 Apr 2023 10:18:19 +0300</pubDate>
+    <author>Brita-Maria Alas</author>
+    <category domain="https://www.postimees.ee">Postimees</category>
+    <category domain="https://www.postimees.ee/section/296">Poliitika</category>
+    <enclosure url="https://f11.pmo.ee/3RCpJrzaHR1R-xAyAjg9bxlLzVY=/480x270/smart/nginx/o/2023/03/10/15190557t1h6c26.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>KADEDUS VÕI ÕIGUSTATUD MURE ⟩ «Üldse ei põhjendata ära!» Saue valla elanik pole rahul ametnikele preemiate maksmisega</title>
+    <description>«Üldse ei põhjendata ära, mis on see tulemuslikkus, mis saavutati ja mille alusel preemiat maksti,» kurdab Saue valla kodanik, kelle arvates on vallaametnike preemia üle otsustamine meelevaldne. «Majandus- ja arengukomisjoni arutelu sel teemal oli põhjalik,» märgib valla avalike suhete juht ja lisab, et komisjoni protokollid on avalikud ning kõigile tutvumiseks kättesaadavad.</description>
+    <link>https://pmo.ee/7748353</link>
+    <guid isPermaLink="false">pm#7748353</guid>
+    <pubDate>Mon, 10 Apr 2023 10:15:00 +0300</pubDate>
+    <author>Annaliisa Köss</author>
+    <category domain="https://elu24.postimees.ee">Elu24</category>
+    <enclosure url="https://f12.pmo.ee/2kmo8l-sdxk8lhm3JQY3Z9I0PYs=/480x270/filters:focal(1008x884:4229x2868)/nginx/o/2023/04/09/15246933t1hbcfc.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>PERSOON ⟩ Eesti muusiku aus ülestunnistus: kui tahan olla kuulus artist, siis ma pean kaalust alla võtma ja...</title>
+    <description>26-aastane Karmel Üksvärav, artistinimega Karmella, pälvis suurema tuntuse tüdrukutebändis Little Mess, kuid on eraelus läbi tulnud suurtest raskustest, mis paljud inimesed kergesti maha murraks. Kasvamine enesekindlaks muusikuks ja naiseks pole olnud lihtne, kuid Karmel tunnistab, et ta pole kunagi ennast paremini tundnud kui praegu.</description>
+    <link>https://pmo.ee/7748387</link>
+    <guid isPermaLink="false">pm#7748387</guid>
+    <pubDate>Mon, 10 Apr 2023 10:01:00 +0300</pubDate>
+    <author>Mona Lii Konnapere</author>
+    <category domain="https://naine.postimees.ee">Naine</category>
+    <category domain="https://naine.postimees.ee/section/950">Persoon</category>
+    <enclosure url="https://f12.pmo.ee/AP-nLyUo8Q44OSORCluZtjDImF8=/480x270/filters:focal(1077x1011:3143x4422)/nginx/o/2023/04/08/15245350t1hea6b.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Ukraina meedia hurjutas Dmitri Tursunoviga koostöö lõpetanud tipptennisisti: tore, aga liiga hilja!</title>
+    <description>Naiste tennise 11. reket Belinda Bencic otsustas lõpetada koostöö Anett Kontaveidi endise treener Dmitri Tursunoviga. </description>
+    <link>https://pmo.ee/7750264</link>
+    <guid isPermaLink="false">pm#7750264</guid>
+    <pubDate>Mon, 10 Apr 2023 10:00:00 +0300</pubDate>
+    <author>Toimetas Karl Juhkami</author>
+    <category domain="https://sport.postimees.ee">Sport</category>
+    <category domain="https://sport.postimees.ee/section/293">Tennis</category>
+    <enclosure url="https://f12.pmo.ee/634q9Hd8YNzuyT3gh_F9a9-6W00=/480x270/filters:focal(1525x213:2280x642)/nginx/o/2023/04/10/15247318t1hde5a.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Riina Solman ⟩ Liberaalid, võrdsustage ülestõusmispühade ajal Euroopas antav vabade päevade arv ka Eestis</title>
+    <description>Kui muu Euroopa esmaspäeval puhkab, siis Eesti käib hambad ristis protestantliku tööeetikuna tööl, kirjutab riigihalduse minister Riina Solman (Isamaa).</description>
+    <link>https://pmo.ee/7749299</link>
+    <guid isPermaLink="false">pm#7749299</guid>
+    <pubDate>Mon, 10 Apr 2023 10:00:00 +0300</pubDate>
+    <author>Riina Solman</author>
+    <category domain="https://arvamus.postimees.ee">Arvamus</category>
+    <enclosure url="https://f10.pmo.ee/4L9jEN5LSREF9hehNbP1TWmZfWQ=/480x270/filters:focal(533x89:1348x864)/nginx/o/2023/03/13/15196546t1h157e.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>GALERII ⟩ Ultima Thule jättis liigutaval kontserdil hüvasti Riho Sibulaga</title>
+    <description>8. aprilli õhtul andis Ultima Thule Alexela Kontserdimajas meeleoluka kontserdi, millega tehti kummardus nii lojaalsetele fännidele kui ka lahkunud bändiliikmetele. Vaata galeriist, kuidas kontsert möödus!</description>
+    <link>https://pmo.ee/7750004</link>
+    <guid isPermaLink="false">pm#7750004</guid>
+    <pubDate>Mon, 10 Apr 2023 09:52:01 +0300</pubDate>
+    <author>Kultuuritoimetus</author>
+    <category domain="https://kultuur.postimees.ee">Kultuur</category>
+    <category domain="https://kultuur.postimees.ee/section/2195">Muusika</category>
+    <enclosure url="https://f8.pmo.ee/FFpO4NxtcwwQ6IA6A3gAUgjn3sY=/480x270/smart/nginx/o/2023/04/08/15245799t1h8e21.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Tänavatele lisandub lähiajal üle 600 rendiratta</title>
+    <description>Koos ilusate kevadilmade saabumisega on alanud ka rattasõidu hooaeg ning Tartu linnavalitsus plaanib lähipäevil tänavatele tuua suurema hulga elektrilisi rendirattaid.</description>
+    <link>https://pmo.ee/7748819</link>
+    <guid isPermaLink="false">pm#7748819</guid>
+    <pubDate>Mon, 10 Apr 2023 09:51:00 +0300</pubDate>
+    <author>Egeli Raudmäe</author>
+    <category domain="https://tartu.postimees.ee">Tartu Postimees</category>
+    <enclosure url="https://f11.pmo.ee/kaX3ndJZAG480mj7UlLuzoBRxUs=/480x270/smart/nginx/o/2023/04/06/15242155t1h21b4.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Üks korralik Eesti noorte seebiooper, mida on raske käest panna</title>
+    <description>Kristi Piiperi «Tõde või tegu» on triloogia teismelisest tüdrukust, kes harutab lahti oma perekonna ja lastekodu asukate saladusi. Mulle jäi kunagi ammu silma, et neid raamatuid kiidetakse ja tundus paras seeria ühe köitena ette võtta, kirjutab raamatublogija Mariann vendelin.</description>
+    <link>https://pmo.ee/7750322</link>
+    <guid isPermaLink="false">pm#7750322</guid>
+    <pubDate>Mon, 10 Apr 2023 09:46:00 +0300</pubDate>
+    <author>Mariann Vendelin</author>
+    <category domain="https://raamatud.postimees.ee">Raamatud</category>
+    <category domain="https://raamatud.postimees.ee/section/4873">Arvustused</category>
+    <enclosure url="https://f9.pmo.ee/U-rxTVYWpq_sY-RECgW0iflpsEA=/480x270/filters:focal(2728x787:3897x1917)/nginx/o/2023/04/10/15247468t1h7f9c.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Algas Tartu kaasava eelarve ideede kogumine</title>
+    <description>Esmaspäeval algas Tartus tänavune kaasava eelarve ideekorje. Eelarves on 200 000 eurot, mille eest saab ellu viia vähemalt kaks ideed.</description>
+    <link>https://pmo.ee/7750008</link>
+    <guid isPermaLink="false">pm#7750008</guid>
+    <pubDate>Mon, 10 Apr 2023 09:44:11 +0300</pubDate>
+    <author>Tartu Postimees</author>
+    <category domain="https://tartu.postimees.ee">Tartu Postimees</category>
+    <enclosure url="https://f11.pmo.ee/k2kBwUWw_ibR7cF8YB4a2ZH5trQ=/480x270/filters:focal(2121x1661:2276x1731)/nginx/o/2023/04/09/15246128t1hc974.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>PARTISANID NÕUAVAD TEGUTSEMIST ⟩ Valgevene häkkerid viskasid opositsiooniliider Svjatlana Tsihhanovskajale kinda</title>
+    <description>Valgevene küberpartisanid-häkkerid ja Valgevene vabatahtlike rügement ootab opositsiooniliider Svjatlana Tsihhanovskajalt jõulisemat tegutsemist, et riik Lukašenka režiimi võimust vabastada, vahendas The Economist hiljuti.</description>
+    <link>https://pmo.ee/7750229</link>
+    <guid isPermaLink="false">pm#7750229</guid>
+    <pubDate>Mon, 10 Apr 2023 09:39:00 +0300</pubDate>
+    <author>The Economist / PM</author>
+    <category domain="https://maailm.postimees.ee">Maailm</category>
+    <category domain="https://maailm.postimees.ee/section/5821">Venemaa ründab Ukrainat</category>
+    <enclosure url="https://f12.pmo.ee/E_M5wRxHMr2hxL88lMdF65LUQ-o=/480x270/filters:focal(330x80:3346x2201)/nginx/o/2023/04/10/15247305t1ha015.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>Kõlvart: uus valitsusliit kahjustab majanduse konkurentsivõimet ja riigi usaldusväärsust</title>
+    <description>Tallinna linnapea ja Keskerakonna aseesimehe Mihhail Kõlvarti hinnangul soodustab uue valitsuse koalitsioonileping hinnatõusu, kärbib Eesti majanduse konkurentsivõimet, kahandab riigi usaldusväärsust ja tekitab ministeeriumide tegevusvaldkondade ümberjaotamisega kaose.</description>
+    <link>https://pmo.ee/7750312</link>
+    <guid isPermaLink="false">pm#7750312</guid>
+    <pubDate>Mon, 10 Apr 2023 09:35:00 +0300</pubDate>
+    <author>Loora-Elisabet Lomp</author>
+    <category domain="https://www.postimees.ee">Postimees</category>
+    <category domain="https://www.postimees.ee/section/122">Eesti</category>
+    <enclosure url="https://f12.pmo.ee/1EL78cwMC3PMW4-DDdeGdx4ufnk=/480x270/smart/nginx/o/2023/04/10/15247435t1hc8d6.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+    <title>GRAAFIK ⟩ Eesti hinnakasv püsib jätkuvalt teisel pool 15 protsendi piiri</title>
+    <description>Statistikaameti andmetel tõusis tarbijahinnaindeks märtsis võrreldes veebruariga 0,7 protsenti ning võrreldes eelmise aasta märtsiga 15,3 protsenti, kusjuures mulluse märtsiga võrreldes olid kaubad 14,4 protsenti ja teenused 17,2 protsenti kallimad.</description>
+    <link>https://pmo.ee/7750250</link>
+    <guid isPermaLink="false">pm#7750250</guid>
+    <pubDate>Mon, 10 Apr 2023 09:33:00 +0300</pubDate>
+    <author>BNS</author>
+    <category domain="https://majandus.postimees.ee">Majandus</category>
+    <enclosure url="https://f9.pmo.ee/aCM4Q3iDwNMxgwmVAtEcshU4g3U=/480x270/smart/nginx/o/2022/11/18/14969636t1h5d99.jpg" length="" type="image/jpeg"/>
+    </item>
+    </rss>
+    </channel>
+</root>

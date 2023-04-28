@@ -1,0 +1,17 @@
+<!ELEMENT root (Books)>
+<!ELEMENT Books (Book+)>
+<!ELEMENT Book (#PCDATA|BookID|ISBN|Title|Description|Price|Pages|Year|Language|Category|Authors)*>
+<!ELEMENT BookID (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT Pages (#PCDATA)>
+<!ELEMENT Year (#PCDATA)>
+<!ELEMENT Language (#PCDATA)>
+<!ELEMENT Category (#PCDATA)>
+<!ELEMENT Authors (Author)>
+<!ELEMENT Author EMPTY>
+<!ATTLIST Author AuthorID NMTOKEN #REQUIRED>
+<!ATTLIST Author Firstname NMTOKEN #REQUIRED>
+<!ATTLIST Author Lastname NMTOKEN #REQUIRED>

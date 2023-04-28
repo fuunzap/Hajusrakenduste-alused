@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="people.css" type="text/css"?>
+<!--
+    Создать XML-файл – рецепты пиццы, проверить правильность кода при помощи веб браузера
+-->
+<root>
+    <pizza>
+        <name>Маргарита</name>
+        <description>Появление пиццы «Маргарита» датируется 1889 годом. Король Умберто Первый и его супруга Маргарита Савойская отправились отдыхать в свою летнюю резиденцию в Неаполе. Королеве захотелось попробовать то, что ест простой люд. Она уже была наслышана о пицце, поэтому попросила своего придворного повара приготовить именно</description>
+        <image>https://okeansushi.ru/products_pictures/12-pitstsa-margarita-istoriya-sostav-klassicheskiy-retsept-1.jpg</image>
+        <ingredients>
+            <ingredient name="Тесто для пиццы" amount="270-300"></ingredient>
+            <ingredient name="Cоус томатный " amount="100-130"></ingredient>
+            <ingredient name="Сыр мацарелла для пиццы" amount="150-180"></ingredient>
+            <ingredient name="помидоры" amount="1 шт."></ingredient>
+            <ingredient name="базелик зеленый " amount="8-10"></ingredient>
+            <ingredient name="Масло оливковое" amount="270-300"></ingredient>
+        </ingredients>
+        <steps>
+            <step id="1" description="Подготтавливаем ингредиенты. Базелик моем и высушиваем."></step>
+            <step id="1" description="Тесто для пиццы раскатываем толщиной 2-3 мм, диаметром 32-35 см. "></step>
+            <step id="1" description="Кладём на раскатаную основу томатный соус"></step>
+        </steps>
+    </pizza>
+<pizza>
+    <name>Маргарита</name>
+    <description>Появление пиццы «Маргарита» датируется 1889 годом. Король Умберто Первый и его супруга Маргарита Савойская отправились отдыхать в свою летнюю резиденцию в Неаполе. Королеве захотелось попробовать то, что ест простой люд. Она уже была наслышана о пицце, поэтому попросила своего придворного повара приготовить именно</description>
+    <image>https://okeansushi.ru/products_pictures/12-pitstsa-margarita-istoriya-sostav-klassicheskiy-retsept-1.jpg</image>
+    <ingredients>
+        <ingredient name="Тесто для пиццы" amount="270-300"></ingredient>
+        <ingredient name="Cоус томатный " amount="100-130"></ingredient>
+        <ingredient name="Сыр мацарелла для пиццы" amount="150-180"></ingredient>
+        <ingredient name="помидоры" amount="1 шт."></ingredient>
+        <ingredient name="базелик зеленый " amount="8-10"></ingredient>
+        <ingredient name="Масло оливковое" amount="270-300"></ingredient>
+    </ingredients>
+    <steps>
+        <step id="1" description="Подготтавливаем ингредиенты. Базелик моем и высушиваем."></step>
+        <step id="1" description="Тесто для пиццы раскатываем толщиной 2-3 мм, диаметром 32-35 см. "></step>
+        <step id="1" description="Кладём на раскатаную основу томатный соус"></step>
+    </steps>
+</pizza>
+<pizza>
+    <name>Маргарита</name>
+    <description>Появление пиццы «Маргарита» датируется 1889 годом. Король Умберто Первый и его супруга Маргарита Савойская отправились отдыхать в свою летнюю резиденцию в Неаполе. Королеве захотелось попробовать то, что ест простой люд. Она уже была наслышана о пицце, поэтому попросила своего придворного повара приготовить именно</description>
+    <image>https://okeansushi.ru/products_pictures/12-pitstsa-margarita-istoriya-sostav-klassicheskiy-retsept-1.jpg</image>
+    <ingredients>
+        <ingredient name="Тесто для пиццы" amount="270-300"></ingredient>
+        <ingredient name="Cоус томатный " amount="100-130"></ingredient>
+        <ingredient name="Сыр мацарелла для пиццы" amount="150-180"></ingredient>
+        <ingredient name="помидоры" amount="1 шт."></ingredient>
+        <ingredient name="базелик зеленый " amount="8-10"></ingredient>
+        <ingredient name="Масло оливковое" amount="270-300"></ingredient>
+    </ingredients>
+    <steps>
+        <step id="1" description="Подготтавливаем ингредиенты. Базелик моем и высушиваем."></step>
+        <step id="1" description="Тесто для пиццы раскатываем толщиной 2-3 мм, диаметром 32-35 см. "></step>
+        <step id="1" description="Кладём на раскатаную основу томатный соус"></step>
+    </steps>
+</pizza>
+<pizza>
+    <name>Маргарита</name>
+    <description>Появление пиццы «Маргарита» датируется 1889 годом. Король Умберто Первый и его супруга Маргарита Савойская отправились отдыхать в свою летнюю резиденцию в Неаполе. Королеве захотелось попробовать то, что ест простой люд. Она уже была наслышана о пицце, поэтому попросила своего придворного повара приготовить именно</description>
+    <image>https://okeansushi.ru/products_pictures/12-pitstsa-margarita-istoriya-sostav-klassicheskiy-retsept-1.jpg</image>
+    <ingredients>
+        <ingredient name="Тесто для пиццы" amount="270-300"></ingredient>
+        <ingredient name="Cоус томатный " amount="100-130"></ingredient>
+        <ingredient name="Сыр мацарелла для пиццы" amount="150-180"></ingredient>
+        <ingredient name="помидоры" amount="1 шт."></ingredient>
+        <ingredient name="базелик зеленый " amount="8-10"></ingredient>
+        <ingredient name="Масло оливковое" amount="270-300"></ingredient>
+    </ingredients>
+    <steps>
+        <step id="1" description="Подготтавливаем ингредиенты. Базелик моем и высушиваем."></step>
+        <step id="1" description="Тесто для пиццы раскатываем толщиной 2-3 мм, диаметром 32-35 см. "></step>
+        <step id="1" description="Кладём на раскатаную основу томатный соус"></step>
+    </steps>
+</pizza>
+<pizza>
+    <name>Маргарита</name>
+    <description>Появление пиццы «Маргарита» датируется 1889 годом. Король Умберто Первый и его супруга Маргарита Савойская отправились отдыхать в свою летнюю резиденцию в Неаполе. Королеве захотелось попробовать то, что ест простой люд. Она уже была наслышана о пицце, поэтому попросила своего придворного повара приготовить именно</description>
+    <image>https://okeansushi.ru/products_pictures/12-pitstsa-margarita-istoriya-sostav-klassicheskiy-retsept-1.jpg</image>
+    <ingredients>
+        <ingredient name="Тесто для пиццы" amount="270-300"></ingredient>
+        <ingredient name="Cоус томатный " amount="100-130"></ingredient>
+        <ingredient name="Сыр мацарелла для пиццы" amount="150-180"></ingredient>
+        <ingredient name="помидоры" amount="1 шт."></ingredient>
+        <ingredient name="базелик зеленый " amount="8-10"></ingredient>
+        <ingredient name="Масло оливковое" amount="270-300"></ingredient>
+    </ingredients>
+    <steps>
+        <step id="1" description="Подготтавливаем ингредиенты. Базелик моем и высушиваем."></step>
+        <step id="1" description="Тесто для пиццы раскатываем толщиной 2-3 мм, диаметром 32-35 см. "></step>
+        <step id="1" description="Кладём на раскатаную основу томатный соус"></step>
+    </steps>
+</pizza>
+</root>       
